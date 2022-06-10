@@ -6,6 +6,10 @@ This project is the Nextlab's internship challenge
 
 <img src="https://play-lh.googleusercontent.com/OtYGjL0DfKW7NjLNOaxN3-y8oUZpeiKdYYI1QPg-62NRLri2uVCDh_JW-8aP6vI3ww" width="130px">
 
+## Deploy
+
+Web deployed at [Todo-app](https://todoapp-challenge.vercel.app/)
+
 ## Features
 
 All features mentioned in the test including additional functions have been implemented
