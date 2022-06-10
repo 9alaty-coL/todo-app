@@ -1,0 +1,14 @@
+.task{
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    &.dragging{
+        background-color: rgb(124, 134, 219);
+    }
+}
+.deleteBtnGroup{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
