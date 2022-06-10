@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the Nextlab's internship challenge
+<br/>
+<br/>
+
+<img src="https://play-lh.googleusercontent.com/OtYGjL0DfKW7NjLNOaxN3-y8oUZpeiKdYYI1QPg-62NRLri2uVCDh_JW-8aP6vI3ww" width="130px">
+
+## Features
+
+All features mentioned in the test including additional functions have been implemented
+
+## Techniques
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
 
 ## Available Scripts
 
